@@ -1,4 +1,4 @@
-module ntlmssp
+module github.com/EddieIvan01/ntlmssp
 
 go 1.13
 
